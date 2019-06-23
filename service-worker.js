@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vue-license/precache-manifest.2aae91306fb903c81e23074fad7d4296.js"
+  "/vue-license/precache-manifest.608d528240c0e34791a4f7e3196a31d7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "kindle"});
