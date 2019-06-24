@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vue-license/precache-manifest.6cc75d9899e1f690b765061579c28ff2.js"
+  "/vue-license/precache-manifest.eed71c694215a4f937812313e053bf96.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "kindle"});
+workbox.core.setCacheNameDetails({prefix: "Vue-license"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
